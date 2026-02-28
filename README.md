@@ -40,7 +40,7 @@ Conventional data augmentation techniques fail to capture realistic stroke-level
 ---
 
 ## Architecture and Flow
-![mermaid-diagram.png](../Vinnilaganproject/mermaid-diagram.png)
+<img width="1695" height="1512" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/7e96e4bb-aab0-4215-8119-1c0ecf6c3680" />
 
 ---
 ## Modules
