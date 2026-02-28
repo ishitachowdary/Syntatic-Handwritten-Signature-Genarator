@@ -223,6 +223,18 @@ User-specific GANs → higher realism
 GAN augmentation stabilizes Siamese training
 
 ---
+
+**## Interface
+**
+<img width="1213" height="783" alt="image" src="https://github.com/user-attachments/assets/83da7d3f-dbdf-4a54-a688-b1d87b79229e" />
+
+<img width="1185" height="556" alt="image" src="https://github.com/user-attachments/assets/f4da2529-b366-4573-b8f0-1ffc4a095b6a" />
+
+
+
+
+
+
 **Limitations**
 
 Basic Vanilla GAN only
